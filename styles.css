@@ -1,0 +1,21 @@
+*{
+    border:none;
+}
+
+body{
+    color:rgb(57, 57, 57)
+}
+
+div{
+    margin: 20px;
+    padding:20px;
+    text-align: justify;
+}
+/* hover para quando o mouse passar por cima */
+div:hover{
+    background-color: aliceblue;
+}
+
+div.clone{
+    background-color: antiquewhite;
+}
